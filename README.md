@@ -1,12 +1,4 @@
-# trabalho_LP
 
-Claro! Abaixo está um exemplo de README para o Simulador de Rede Social, baseado nas informações fornecidas e com a adição da funcionalidade de venda de itens entre usuários:
-
----
-
-# Simulador de Rede Social - README
-
-Este é um projeto de simulador de rede social desenvolvido com a utilização do banco de dados SQLite, apresentando detalhes específicos sobre sua estrutura, linguagens e ferramentas utilizadas.
 
 ## Banco de Dados: SQLite
 
