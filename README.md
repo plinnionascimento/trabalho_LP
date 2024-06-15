@@ -67,3 +67,35 @@ Este README serve como um guia básico para entender a estrutura e funcionalidad
 
 
 ![image](https://github.com/plinnionascimento/trabalho_LP/assets/151463456/10fbe7fc-3d44-4755-98ce-8776445b0baf)
+
+
+
+![image](https://github.com/plinnionascimento/trabalho_LP/assets/151463456/ed1063dd-e17d-43bb-b21d-c9f335cadc80)
+
+
+
+![image](https://github.com/plinnionascimento/trabalho_LP/assets/151463456/576ba32f-c559-462a-95df-80a0e49e8c89)
+
+![image](https://github.com/plinnionascimento/trabalho_LP/assets/151463456/fdcbd863-4c0f-4ad9-bae8-78289db30fcb)
+
+
+
+![image](https://github.com/plinnionascimento/trabalho_LP/assets/151463456/e598dde5-7617-471d-8444-9107bc8833c8)
+
+
+
+![image](https://github.com/plinnionascimento/trabalho_LP/assets/151463456/5e8dd24e-ab7b-424e-aaab-b21dc8f78770)
+
+
+
+![image](https://github.com/plinnionascimento/trabalho_LP/assets/151463456/e8871680-bbf4-405f-b084-0631a2237502)
+
+![image](https://github.com/plinnionascimento/trabalho_LP/assets/151463456/52baf8c3-bf0a-4266-acc5-fa47881a4f27)
+
+![image](https://github.com/plinnionascimento/trabalho_LP/assets/151463456/1435f2f5-67bc-4622-a84a-67205aa7d6ae)
+
+
+
+
+
+
